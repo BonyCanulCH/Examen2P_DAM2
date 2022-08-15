@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parcial2sp_DAM2</string>
+    <string name="btnPause">Pausa</string>
+    <string name="btnStop">Detener</string>
+    <string name="btnPlay">Reproducir</string>
+    <string name="btnContinue">Reanudar</string>
+</resources>
